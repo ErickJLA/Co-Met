@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Co-Met: A Google Colab Notebook for Meta-Analysis"
+abstract: "A comprehensive Google Colab notebook for conducting publication-ready meta-analyses with advanced statistical methods, including three-level models, meta-regression, and publication bias assessment."
+authors:
+  - family-names: "Co-Met Contributors"
+repository-code: "https://github.com/ErickJLA/Co-Met"
+url: "https://github.com/ErickJLA/Co-Met"
+license: MIT
+version: 1.0.0
+date-released: 2025-11-19
+keywords:
+  - meta-analysis
+  - statistics
+  - research synthesis
+  - effect size
+  - Google Colab
+  - three-level models
+  - meta-regression
+  - publication bias
